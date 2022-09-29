@@ -1,2 +1,4 @@
 void funcaoUtil(){}
-void funcaoExperimental(){}
+void funcaoExperimental(){
+        // Implementação melhorada*
+}

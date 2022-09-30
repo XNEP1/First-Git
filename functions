@@ -1,4 +1,6 @@
-void funcaoUtil(){}
+void funcaoUtil(){
+    // Atualização necessária.
+}
 void funcaoExperimental(){
         // Implementação melhorada*
 }
